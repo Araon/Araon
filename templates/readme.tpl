@@ -4,7 +4,7 @@
 araon@github:~$ ./welcome.sh
 ```
 
-code, camera, chaos
+hi, i'm ara0n
 
 i build software and spend my time around engineering, history, and hardware
 

@@ -1,0 +1,30 @@
+name: generate README
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "15 0 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  markscribe:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v7.0.1
+
+      - name: render README
+        uses: muesli/readme-scribe@d2f6ab32d6b9f5b59941fe782d6c7e6499a37fe4
+        env:
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
+        with:
+          template: templates/readme.tpl
+          writeTo: README.md
+
+      - name: commit README
+        uses: endbug/add-and-commit@v11.1.1
+        with:
+          add: README.md
+          message: "chore: generate README"

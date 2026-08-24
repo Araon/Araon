@@ -16,8 +16,10 @@ i build software and spend my time around engineering, history, and hardware
 - email `ayy.soumik [at] gmail [dot] com`
 
 ### recent work
-{{range recentContributions 4}}
+{{range recentContributions 5}}
+{{- if ne .Repo.Name "Araon/stars"}}
 - [{{.Repo.Name}}]({{.Repo.URL}}){{if .Repo.Description}} - {{.Repo.Description}}{{end}}
+{{- end}}
 {{- end}}
 
 ### recent stars

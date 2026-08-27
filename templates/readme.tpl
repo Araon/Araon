@@ -1,8 +1,6 @@
 ![pixel night](assets/pixel-night.jpg)
 
-```console
-araon@github:~$ ./welcome.sh
-```
+<br>
 
 hi, i'm ara0n
 

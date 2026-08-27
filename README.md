@@ -29,7 +29,3 @@ i build software and spend my time around engineering, history, and hardware
 - [adithya-s-k/RL_Envs_101](https://github.com/adithya-s-k/RL_Envs_101) - Building and Scaling RL environments in the age of LLMs
 - [younes-makhchan/ESP32_Video_Display](https://github.com/younes-makhchan/ESP32_Video_Display) - Play any black and white video on ESP32 with SSD1306 OLED display.
 - [saraswatayu/swoop](https://github.com/saraswatayu/swoop) - Search Google Flights programmatically. Real prices, typed results, no API key.
-
-<div>
-  <a href="#"><img alt="araon's contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Araon&custom_title=araon%27s%20contribution%20graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
-</div>

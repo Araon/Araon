@@ -22,8 +22,8 @@ i build software and spend my time around engineering, history, and hardware
 
 ### recent stars
 
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [LF-Decentralized-Trust-labs/cbweb3](https://github.com/LF-Decentralized-Trust-labs/cbweb3) - CBWeb3 — cross-border payments with CBDC settlement (PvP/HTLC and AMM scenarios). An LF Decentralized Trust lab.
 - [pranav718/tsuna](https://github.com/pranav718/tsuna) - peer-to-peer synchronized video watching. no servers. no accounts. just a room code and a udp packet.
 - [sinder38/live-paper-rs](https://github.com/sinder38/live-paper-rs) - Live Wallpapers for Wayland)
 - [wuzhouhui/misc2](https://github.com/wuzhouhui/misc2)
-- [adithya-s-k/HuggingEnvs](https://github.com/adithya-s-k/HuggingEnvs) - HuggingEnvs — RL Environments 101: building and scaling RL environments in the age of LLMs

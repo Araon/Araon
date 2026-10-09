@@ -15,10 +15,10 @@ i build software and spend my time around engineering, history, and hardware
 
 ### recent work
 
+- [Araon/satlapse](https://github.com/Araon/satlapse) - A small script to create very interesting videos scraped from  MOSDAC
 - [Araon/araon.space](https://github.com/Araon/araon.space) - personal website
 - [Araon/stargate](https://github.com/Araon/stargate) - ai router with rate limiting and token caching
 - [Araon/adserver](https://github.com/Araon/adserver) - ad server with DSP bidding
-- [Araon/lookalike](https://github.com/Araon/lookalike) - Tab grouping using semantic page content - automatically groups similar browser tabs
 
 ### recent stars
 
